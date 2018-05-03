@@ -4,7 +4,10 @@ function load() {
     readTextFile("test.json", function(text) {
         var data = JSON.parse(text);
         console.log(data);
-        document.getElementById('map').innerHTML = data.name;
+        //orignal
+        // document.getElementById('map').innerHTML = data.name;
+        //jQuery
+        $("#map").html(data.name);
     });
 }
 
