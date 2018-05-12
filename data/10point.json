@@ -1,0 +1,95 @@
+{
+    "place": [
+        {
+            "pid": "place1",
+            "name": "Hohensalzburg Fortress",
+            "lat": "47.795077",
+            "lon": "13.047703",
+            "img": "img/Fortress.jpg",
+            "star": "5",
+            "comment": ""
+        },
+        {
+            "pid": "place2",
+            "name": "Mozart's Birthplace",
+            "lat": "47.800037",
+            "lon": "13.043572",
+            "img": "img/Mozart_Birthplace.jpg",
+            "star": "4",
+            "comment": ""
+        },
+        {
+            "pid": "place3",
+            "name": "Mirabell Palace",
+            "lat": "47.805601",
+            "lon": "13.041714",
+            "img": "img/3.jpg",
+            "star": "3",
+            "comment": ""
+        },
+        {
+            "pid": "place4",
+            "name": "Mozartplatz",
+            "lat": "47.799008",
+            "lon": "13.047564",
+            "img": "img/4.jpg",
+            "star": "2",
+            "comment": ""
+        },
+        {
+            "pid": "place5",
+            "name": "Salzburg Museum",
+            "lat": "47.798473",
+            "lon": "13.048081",
+            "img": "img/5.jpg",
+            "star": "4",
+            "comment": ""
+        },
+        {
+            "pid": "place6",
+            "name": "Salzburg Cathedral",
+            "lat": "47.797864",
+            "lon": "13.046911",
+            "img": "img/6.jpg",
+            "star": "5",
+            "comment": ""
+        },
+        {
+            "pid": "place7",
+            "name": "Unipark Nonntal",
+            "lat": "47.794856",
+            "lon": "13.054115",
+            "img": "img/7.jpg",
+            "star": "4",
+            "comment": ""
+        },
+        {
+            "pid": "place8",
+            "name": "Universität Salzburg Botanical Garden",
+            "lat": "47.786680",
+            "lon": "13.059909",
+            "img": "img/8.jpg",
+            "star": "5",
+            "comment": ""
+        },
+        {
+            "pid": "place9",
+            "name": "Schloss Freisaal",
+            "lat": "47.786982",
+            "lon": "13.057368",
+            "img": "img/9.jpg",
+            "star": "4",
+            "comment": ""
+        },
+        {
+            "pid": "place10",
+            "name": "Love Locks Bridge Salzburg",
+            "lat": "47.801765",
+            "lon": "13.042209",
+            "img": "img/10.jpg",
+            "star": "4",
+            "comment": ""
+        }
+
+    ]
+}

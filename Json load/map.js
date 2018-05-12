@@ -1,15 +1,20 @@
 function load() {
 
+    redraw();
 
+}
+
+
+function redraw() {
     readTextFile("test.json", function(text) {
         var data = JSON.parse(text);
-        console.log(data);
         //orignal
         // document.getElementById('map').innerHTML = data.name;
         //jQuery
         $("#map").html(data.name);
     });
 }
+
 
 function readTextFile(file, callback) {
     var rawFile = new XMLHttpRequest();
