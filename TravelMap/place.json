@@ -1,0 +1,95 @@
+{
+    "place": [
+        {
+            "pid": "place1",
+            "name": "Hohensalzburg Fortress",
+            "lat": "47.795077",
+            "lon": "13.047703",
+            "img": "img/1.jpg",
+            "star": "5",
+            "comment": "Hohensalzburg Fortress is enthroned on the Festungsberg, high above the rooftops of the Baroque historical district. The biggest fully preserved castle in Central Europe, this emblem of Salzburg draws millions of tourists to our “City of Mozart” every year. "
+        },
+        {
+            "pid": "place2",
+            "name": "Mozart's Birthplace",
+            "lat": "47.800037",
+            "lon": "13.043572",
+            "img": "img/2.jpg",
+            "star": "4",
+            "comment": "W. A. Mozart was born in 1756 in the Hagenauer Haus at No. 9 Getreidegasse in Salzburg. Today, Mozart’s Birthplace is one of the most visited museums in Austria and is an absolute highlight, above all for Mozart fans."
+        },
+        {
+            "pid": "place3",
+            "name": "Mirabell Palace",
+            "lat": "47.805601",
+            "lon": "13.041714",
+            "img": "img/3.jpg",
+            "star": "3",
+            "comment": ""
+        },
+        {
+            "pid": "place4",
+            "name": "Mozartplatz",
+            "lat": "47.799008",
+            "lon": "13.047564",
+            "img": "img/4.jpg",
+            "star": "2",
+            "comment": "Der Mozartplatz befindet sich im Zentrum der Salzburg Altstadt und ist umgeben von Residenz- und Waagplatz. Das Herzstück des Platzes bildet die Mozart-Statue, welcher von Fürsterzbischof Wolf Dietrich von Raitenau gestaltet wurde."
+        },
+        {
+            "pid": "place5",
+            "name": "Salzburg Museum",
+            "lat": "47.798473",
+            "lon": "13.048081",
+            "img": "img/5.jpg",
+            "star": "4",
+            "comment": ""
+        },
+        {
+            "pid": "place6",
+            "name": "Salzburg Cathedral",
+            "lat": "47.797864",
+            "lon": "13.046911",
+            "img": "img/6.jpg",
+            "star": "5",
+            "comment": "Of its numerous churches, the cathedral is Salzburg’s most important sacred building. With its mighty dome and two towers, it leaves its own distinctive, and absolutely impressive stamp on the city skyline. When we gaze upon the cathedral with open eyes, we discover many surprising and exciting details."
+        },
+        {
+            "pid": "place7",
+            "name": "Unipark Nonntal",
+            "lat": "47.794856",
+            "lon": "13.054115",
+            "img": "img/7.jpg",
+            "star": "4",
+            "comment": ""
+        },
+        {
+            "pid": "place8",
+            "name": "Universität Salzburg Botanical Garden",
+            "lat": "47.786680",
+            "lon": "13.059909",
+            "img": "img/8.jpg",
+            "star": "5",
+            "comment": ""
+        },
+        {
+            "pid": "place9",
+            "name": "Schloss Freisaal",
+            "lat": "47.786982",
+            "lon": "13.057368",
+            "img": "img/9.jpg",
+            "star": "4",
+            "comment": ""
+        },
+        {
+            "pid": "place10",
+            "name": "Love Locks Bridge Salzburg",
+            "lat": "47.801765",
+            "lon": "13.042209",
+            "img": "img/10.jpg",
+            "star": "4",
+            "comment": ""
+        }
+
+    ]
+}

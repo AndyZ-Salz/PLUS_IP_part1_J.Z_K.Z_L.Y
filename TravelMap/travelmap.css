@@ -1,0 +1,13 @@
+@charset "UTF-8";
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+}
+#map {
+    position: relative;
+}
+div#info {
+	height: 90%;
+}
+
