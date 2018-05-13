@@ -103,8 +103,8 @@ function _drawMarker_(placeList) {
         });
         var markerStyle = new ol.style.Style({
             image: new ol.style.Icon(({
-                scale: 0.5,
-                src: "location.png"
+                scale: 0.2,
+                src: "place.png"
             }))
         });
         marker.setStyle(markerStyle);
