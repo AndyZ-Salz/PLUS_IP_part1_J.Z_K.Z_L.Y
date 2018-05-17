@@ -75,7 +75,27 @@ function initmap() {
             zoom: 14,
             projection: 'EPSG:4326'
         }),
-        target: 'map'
+        target: 'map',
+        controls: ol.control.defaults().extend([
+            // new ol.control.FullScreen(),
+            new ol.control.MousePosition({
+                coordinateFormat: ol.coordinate.createStringXY(4),
+                projection: 'EPSG:4326',
+                className: 'custom-mouse-position',
+                target: document.getElementById('mouse-position')
+            }),
+            new ol.control.OverviewMap({
+                view: new ol.View({
+                    projection: 'EPSG:4326'
+                })
+            }),
+            new ol.control.ScaleLine({ units: 'degrees' }),
+            new ol.control.ZoomToExtent({
+                extent: [
+                    13.0336, 47.7772, 13.0881, 47.80003
+                ]
+            })
+        ])
     });
     return map;
 }
@@ -223,7 +243,7 @@ function addNewPlace() {
             createNewPlace([location.lng(), location.lat()]);
             refreshPlace();
         } else {
-            alert('It is hard to find the place!');
+            alert('It is hard to find the place!' + status);
         }
     });
 
